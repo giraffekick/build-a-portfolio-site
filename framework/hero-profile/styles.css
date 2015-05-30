@@ -1,0 +1,91 @@
+/** Superhero profile styles **/
+html {
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 40px;
+	
+	background-color: blue;
+
+
+}
+body {
+	background-color: transparent;
+	font-family: italic;
+	padding: 20px;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 10px;
+	border: 10px solid black;
+}
+
+h1 {
+	text-align: center;
+	border-style: groove;
+	border-color: blue;
+	color: blue;
+	border-radius: 50px;
+
+}
+.left {
+	text-align: center;
+}
+.right {
+	
+ 
+}
+.image-container {
+
+}
+.my-image {
+	border-style: groove;
+	border-color: green;
+	border-radius: 10%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	margin-top: 50px;
+	float: right;
+}
+.related {	
+	float: left;
+	text-shadow: 0 1px 1px black;
+	font: 20px;
+
+}
+.row {
+	overflow: hidden;
+	padding: 0 40px;
+
+
+}
+blockquote {
+
+}
+button {
+
+}
+.bat-signal {
+
+}
+.danger {
+
+}
+ul {
+	color: blue;
+
+}
+.super-list {
+	color: blue;
+	float: left;
+
+}
+#super-powers {
+	color: blue;
+}
+
+h3 {
+	color: blue;
+}
